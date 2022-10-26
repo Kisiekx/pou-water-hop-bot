@@ -3,6 +3,12 @@
 
 This bot plays the waterhop minigame in Pou. This was my very first project in python and a lot can be improved here, but I am not into python at all, maybe when I will get bored in the future I will polish this project. 
 
+<p align="center">
+<img  src="https://s4.gifyu.com/images/ezgif-3-f7529caec9.gif" width="400" height="400"  />
+</p>
+
+<p align="center"> <i> This is showcase of the first version that worked </i></p>
+
 ### How to use
 
 Make sure you have python 3.5 or above installed and python-pip. You can use the command ```pip install -r requirements.txt``` to install the required packages.
